@@ -1,9 +1,0 @@
-node_modules
-coverage
-.vscode
-test-report.xml
-
-# local
-*.log
-*.sh
-*.back
